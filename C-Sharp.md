@@ -41,9 +41,9 @@
   * Interface segregation principle
   * Dependency inversion principle
 
-7. ### Design patterns
-8. ### C# best practices
-9. ### Test driven development (TDD)
+7. ###Design patterns
+8. ###C# best practices
+9. ###Test driven development (TDD)
 
 
 ###Setup
@@ -54,6 +54,12 @@ Alternatively, you could also download [Visual Studio Community 2015]  [visualst
 ###Your First C# Program
 
 ```csharp
+//this is the single line comment
+
+/** This is multiline comment,
+compiler ignores any code inside comment blocks.
+**/
+
 //This is the namespace, part of the standard .NET Framework Class Library
 using System;
 // namespace defines the scope of related objects into packages
@@ -67,6 +73,7 @@ namespace Learning.CSharp
     {
       //print lines on console
       Console.WriteLine("Hello, World!");
+      //Reads the next line of characters from the standard input stream.Most common use is to pause program execution before clearing the console.
       Console.ReadLine();
     }
   }
