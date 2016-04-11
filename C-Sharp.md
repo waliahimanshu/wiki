@@ -41,9 +41,9 @@
   * Interface segregation principle
   * Dependency inversion principle
 
-7. ###Design patterns
-8. ### Best practices
-9. ###Test driven development (TDD)
+7. ### Design patterns
+8. ### C# Best practices
+9. ### Test driven development (TDD)
 
 
 ###Setup
