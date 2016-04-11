@@ -42,7 +42,7 @@
   * Dependency inversion principle
 
 7. ###Design patterns
-8. ###C# best practices
+8. ### Best practices
 9. ###Test driven development (TDD)
 
 
