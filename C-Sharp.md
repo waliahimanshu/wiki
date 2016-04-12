@@ -41,10 +41,7 @@
   * Interface segregation principle
   * Dependency inversion principle
 
-7. ### C# Best practices
-8. ### Design patterns
-9. ### Test driven development (TDD)
-
+7. ### C# Best practices, Design patterns & Test driven development (TDD)
 
 ###Setup
 [LinqPad][linqpad] is the ultimate .NET scratchpad to quickly test your C# code snippets . Standard edition is free and perfect tool for beginners to execute language statements, expressions and programs.
